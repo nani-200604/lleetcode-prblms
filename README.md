@@ -16,6 +16,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/nani-200604/lleetcode-prblms/tree/main/0013-roman-to-integer/) | Easy |
+| [0022-generate-parentheses](https://github.com/nani-200604/lleetcode-prblms/tree/main/0022-generate-parentheses/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,4 +42,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/nani-200604/lleetcode-prblms/tree/main/0069-sqrtx/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/nani-200604/lleetcode-prblms/tree/main/0022-generate-parentheses/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/nani-200604/lleetcode-prblms/tree/main/0022-generate-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/nani-200604/lleetcode-prblms/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
