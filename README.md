@@ -19,6 +19,7 @@
 | [0014-longest-common-prefix](https://github.com/nani-200604/lleetcode-prblms/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/nani-200604/lleetcode-prblms/tree/main/0022-generate-parentheses/) | Medium |
 | [0856-score-of-parentheses](https://github.com/nani-200604/lleetcode-prblms/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nani-200604/lleetcode-prblms/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/nani-200604/lleetcode-prblms/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0856-score-of-parentheses](https://github.com/nani-200604/lleetcode-prblms/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nani-200604/lleetcode-prblms/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,8 +61,13 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/nani-200604/lleetcode-prblms/tree/main/0022-generate-parentheses/) | Medium |
 | [0856-score-of-parentheses](https://github.com/nani-200604/lleetcode-prblms/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nani-200604/lleetcode-prblms/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/nani-200604/lleetcode-prblms/tree/main/0014-longest-common-prefix/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nani-200604/lleetcode-prblms/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
