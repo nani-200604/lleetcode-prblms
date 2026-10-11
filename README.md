@@ -25,6 +25,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/nani-200604/lleetcode-prblms/tree/main/0014-longest-common-prefix/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/nani-200604/lleetcode-prblms/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nani-200604/lleetcode-prblms/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nani-200604/lleetcode-prblms/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -70,4 +71,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nani-200604/lleetcode-prblms/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nani-200604/lleetcode-prblms/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
